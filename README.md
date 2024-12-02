@@ -1,7 +1,5 @@
 # Stock Price Prediction using Time Series Forecasting Transformer
 
-![Project Banner](https://via.placeholder.com/1000x300)  
-*Accurate stock price forecasting using Transformer-based architectures.*
 
 ## 📌 Project Overview
 
@@ -49,7 +47,7 @@ This project applies **time-series forecasting** techniques to predict monthly s
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/stock-price-prediction.git
+   git clone https://github.com/arshiyaakishore/stock-price-prediction.git
    cd stock-price-prediction
 2. **Install Dependencies**:
    ```bash
@@ -67,5 +65,4 @@ This project applies **time-series forecasting** techniques to predict monthly s
   - RMSE: 1.7587  
   - MAE: 1.1597  
 
-![Actual vs Predicted](https://via.placeholder.com/600x300)  
-*Figure: Actual vs Predicted for Micron Company*
+
